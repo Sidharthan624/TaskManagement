@@ -26,9 +26,8 @@ npm
 MongoDB (local or cloud-based, like MongoDB Atlas)
 Getting Started
 1. Clone the Repository
-bash
-Copy code
-git clone https://github.com/yourusername/task-management.git
+
+git clone https://github.com/Sidharthan624/TaskManagement.git
 cd task-management
 2. Install Dependencies
 Backend (Navigate to the backend folder):
@@ -36,8 +35,7 @@ Backend (Navigate to the backend folder):
 cd backend
 npm install
 Frontend (Navigate to the frontend folder):
-bash
-Copy code
+
 cd ../frontend
 npm install
 3. Environment Variables
